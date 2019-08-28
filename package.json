@@ -1,6 +1,6 @@
 {
   "name": "wovtoolstest-nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nodejs testing support for WovTools projects.",
   "main": "index.js",
   "author": "Chad Wingrave",
